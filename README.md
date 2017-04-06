@@ -12,12 +12,12 @@ Add the dependencies
 # Usage
 For login
 
-     Login login=new Login(context,"username","password");
+     Login login=new Login(context,"username","password","post_url_login");
      login.runLogin();
 
 For Registration
 
-    Register register =new Register(context,"username","emailid","password");
+    Register register =new Register(context,"username","emailid","password","post_url_registration");
     runRegister();
 
 # LICENSE
