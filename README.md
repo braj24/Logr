@@ -17,9 +17,15 @@ Add it in your root build.gradle at the end of repositories:
 Add the dependencies
 
     dependencies {
-    compile 'com.github.braj24:testlib:1.0.2'
+         compile 'com.github.braj24:testlib:1.0.2'
     }
     
+ or
+    
+     dependencies {
+	  compile 'com.github.User:Repo:Tag'
+     }
+     
 # Usage
 For login
 
