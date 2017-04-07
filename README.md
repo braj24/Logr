@@ -1,5 +1,5 @@
 # Logreglib
-for Login and Registration
+This is testing library.
 
 # Download
 
