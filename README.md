@@ -1,7 +1,17 @@
-# Logr
+# Logr 
+[![](https://jitpack.io/v/braj24/Loginregs.svg)](https://jitpack.io/#braj24/Loginregs)
 This is testing library.
 
 # Download
+
+Add it in your root build.gradle at the end of repositories:
+	   
+       allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
 
 Add the dependencies
 
