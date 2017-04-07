@@ -1,4 +1,4 @@
-# Logreglib
+# Logr
 This is testing library.
 
 # Download
