@@ -1,5 +1,6 @@
 # Logr 
 [![](https://jitpack.io/v/braj24/Loginregs.svg)](https://jitpack.io/#braj24/Loginregs)
+
 This is testing library.
 
 # Download
