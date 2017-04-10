@@ -1,7 +1,5 @@
 # Logr 
 
-[![](https://jitpack.io/v/braj24/Loginregs.svg)](https://jitpack.io/#braj24/Loginregs)
-
 This is a test library.
 
 # Download
@@ -21,11 +19,6 @@ Add the dependencies
          compile 'com.github.braj24:testlib:1.0.2'
     }
     
- or
-    
-     dependencies {
-	  compile 'com.github.User:Repo:Tag'
-     }
      
 # Usage
 For login
